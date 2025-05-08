@@ -25,7 +25,7 @@ import {
     },
     {
       id: 2,
-      textLists: ["Titanium.", "So fast. So fluid."],
+      textLists: ["So fast. So fluid."],
       video: highlightSecondVideo,
       videoDuration: 5,
     },
